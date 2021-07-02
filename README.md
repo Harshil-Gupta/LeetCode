@@ -1,2 +1,3 @@
-# LeetCodeAugustChallenge
-This repository consists solutions of LeetCode August Challenge problems.
+# LeetCode Solutions
+
+This repository consists solutions of LeetCode problems.
