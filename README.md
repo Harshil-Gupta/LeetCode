@@ -4,6 +4,8 @@ This repository consists solutions of LeetCode problems.
 
 Also, This repository is hacktoberfest accepted and you can submit your solutions too.
 
+Check out Changes Needed file if you are confused how and what to contribute to this repository. 
+
 ![Hacktoberfest 2021](https://user-images.githubusercontent.com/53968071/138179028-dfc38acf-347e-4352-9701-7496421c2591.png)
 
 
@@ -22,4 +24,5 @@ Also, This repository is hacktoberfest accepted and you can submit your solution
  3. Run the code on your IDE before submitting as incorrect submissions would not be merged.
  
 
+Feel free to message me if you face any issues.
 ### [MY LEETCODE PROFILE](https://leetcode.com/Harshil-Gupta/)
