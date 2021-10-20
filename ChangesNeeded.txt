@@ -1,3 +1,2 @@
 1. Group the txt file and cpp file of a solution in a single folder.
 2. Move all the folders into 1 folder which contains the codes and description.
-3. 
